@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "..\\css"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\employee"
+		},
+		{
+			"path": "..\\layout"
+		},
+		{
+			"path": "..\\js"
+		},
+		{
+			"path": "..\\php"
+		},
+		{
+			"path": "..\\users"
+		}
+	],
+	"settings": {}
+}
